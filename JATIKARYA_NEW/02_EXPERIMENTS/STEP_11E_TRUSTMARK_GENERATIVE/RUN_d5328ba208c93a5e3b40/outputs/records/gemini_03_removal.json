@@ -1,0 +1,18 @@
+{
+  "provider": "gemini",
+  "source_number": "03",
+  "source_id": "SRC_5cb4f93cdb296adf",
+  "split": "FINAL_TEST",
+  "edit_type": "removal",
+  "filename": "removal gemini 03.jpg",
+  "image_sha256": "26a5b0ddab1b364727abde381b025b38c2b6dda410a92635ab4f234aee358f2c",
+  "parent_watermarked_sha256": "12d351a627bcfb8041d92394a5943512724e060e210cf29fb096356985a22a82",
+  "detected": true,
+  "payload_match": true,
+  "decoded_payload": "0101110010110100111110010011110011011011001010010110101011011",
+  "decoded_schema": "1",
+  "mapped_source_id": "SRC_5cb4f93cdb296adf",
+  "status": "KODE_COCOK",
+  "error": "",
+  "seconds": 0.24056
+}

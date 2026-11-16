@@ -1,0 +1,8 @@
+{
+  "provider": "gemini",
+  "new_count": 120,
+  "total_registered": 240,
+  "baseline_sha256": "8944577e3e16aec2e1da7ad25d739a173a73320bbd85295fd796139f5ce1adb9",
+  "index_sha256": "7014ae818cee5b5ee0e6c816511a0478af8399aae5986a18a3b7c64a228733ce",
+  "created_at_utc": "2026-11-10T07:29:53.460547+00:00"
+}

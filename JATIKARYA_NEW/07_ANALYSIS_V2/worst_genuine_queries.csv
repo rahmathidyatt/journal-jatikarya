@@ -1,0 +1,7 @@
+provider,edit_type,source_number,split,skor_sumber_benar,top1_benar
+chatgpt,replacement,24,CALIBRATION,-0.007,False
+gemini,replacement,39,CALIBRATION,0.141,False
+gemini,replacement,24,CALIBRATION,0.251,True
+gemini,removal,31,CALIBRATION,0.275,False
+chatgpt,removal,31,CALIBRATION,0.279,False
+chatgpt,removal,20,FINAL_TEST,0.291,True

@@ -1,0 +1,18 @@
+{
+  "provider": "chatgpt",
+  "source_number": "01",
+  "source_id": "SRC_75048a8edeb43929",
+  "split": "CALIBRATION",
+  "edit_type": "replacement",
+  "filename": "replacement gpt 01.png",
+  "image_sha256": "980bcd8dd0bf62190ea7218f920400ab60df6ce22e5f910083adc26f1513b5cc",
+  "parent_watermarked_sha256": "724c1a8c517203ac71385fbc754f44f0ee4217fabeb8649fdb914dc000d20a12",
+  "detected": false,
+  "payload_match": false,
+  "decoded_payload": "",
+  "decoded_schema": "-1",
+  "mapped_source_id": "",
+  "status": "TIDAK_TERDETEKSI",
+  "error": "",
+  "seconds": 0.28807
+}

@@ -1,0 +1,13 @@
+{
+    "project": "JATIKARYA",
+    "version": "2.0",
+    "research_type": "Individual Master Research",
+    "main_methods": [
+        "TrustMark",
+        "DINOv2"
+    ],
+    "phase": "RESEARCH_FOUNDATION",
+    "experiment_status": "NOT_STARTED",
+    "old_pilot": "ARCHIVED_SEPARATELY",
+    "created_at_utc": "2026-11-05T03:34:19.180783+00:00"
+}

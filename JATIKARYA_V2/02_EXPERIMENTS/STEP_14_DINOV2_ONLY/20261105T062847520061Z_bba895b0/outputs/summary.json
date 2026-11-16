@@ -1,0 +1,8 @@
+{
+  "run_id": "20261105T062847520061Z_bba895b0",
+  "phase": "PILOT",
+  "queries": 8,
+  "correct_at_1": 8,
+  "threshold_calibrated": false,
+  "timestamp_utc": "2026-11-05T06:29:08.599373+00:00"
+}

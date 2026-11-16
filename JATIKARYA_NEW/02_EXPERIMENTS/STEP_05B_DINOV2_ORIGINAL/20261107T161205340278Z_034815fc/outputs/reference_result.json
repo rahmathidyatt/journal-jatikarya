@@ -1,0 +1,13 @@
+{
+  "source_id": "SRC_211b9e8b868839c4",
+  "source_sha256": "211b9e8b868839c474a54630f7067cef981136f65a21ddaf911080464794138a",
+  "original_filename": "IMG_4481.JPEG",
+  "model": "dinov2_vits14",
+  "preprocessing": "Resize518_CenterCrop518_ImageNet",
+  "embedding_dimension": 384,
+  "embedding_sha256": "8164b809b72a60ba759ccfd8a76155bbd69597971568533e949594ed86a664e4",
+  "source_frame_index": 0,
+  "execution_seconds": 1.618928,
+  "status": "PASS",
+  "created_at_utc": "2026-11-07T16:12:07.049697+00:00"
+}

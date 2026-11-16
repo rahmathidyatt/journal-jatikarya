@@ -1,0 +1,13 @@
+{
+  "run_id": "20261107T142504301728Z_a813d60f",
+  "step": "STEP_06D_INDIVIDUAL_COMPARISON",
+  "method": "SIDE_BY_SIDE_NO_FUSION",
+  "parameters": {
+    "source_id": "SRC_33feba5735b719cb",
+    "manifest_sha256": "29a5c124dd308cddd7cf4b1dafd9753f5b2f6a2b8eb689f6433ccd82c481debb",
+    "trustmark_run": "20261107T135419234928Z_d611db8c",
+    "dinov2_run": "20261107T141037957450Z_ee005cd8"
+  },
+  "created_at_utc": "2026-11-07T14:25:04.301728+00:00",
+  "status": "COMPLETED"
+}

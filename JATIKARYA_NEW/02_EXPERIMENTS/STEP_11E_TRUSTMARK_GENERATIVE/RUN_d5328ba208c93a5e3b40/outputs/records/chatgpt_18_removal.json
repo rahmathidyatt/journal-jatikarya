@@ -1,0 +1,18 @@
+{
+  "provider": "chatgpt",
+  "source_number": "18",
+  "source_id": "SRC_8022cc6923c269d9",
+  "split": "CALIBRATION",
+  "edit_type": "removal",
+  "filename": "removal gpt 18.png",
+  "image_sha256": "6b69b3918785cd2d97374a878ef06e87f9f5e9bbd950af4530cf9c7bba1e32db",
+  "parent_watermarked_sha256": "281e579c07a439c22b63bad7f1ef8d8d7b4fc5ce5cb5e7173635d793965bc26f",
+  "detected": false,
+  "payload_match": false,
+  "decoded_payload": "",
+  "decoded_schema": "-1",
+  "mapped_source_id": "",
+  "status": "TIDAK_TERDETEKSI",
+  "error": "",
+  "seconds": 0.27354
+}

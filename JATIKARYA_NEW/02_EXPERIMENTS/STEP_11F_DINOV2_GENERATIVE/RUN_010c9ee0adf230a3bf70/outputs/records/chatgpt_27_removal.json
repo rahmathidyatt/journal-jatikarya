@@ -1,0 +1,303 @@
+{
+  "fingerprint": "010c9ee0adf230a3bf70aa8a6c9083809972af6aaa2693e522a669485b7a2cb3",
+  "provider": "chatgpt",
+  "source_number": "27",
+  "source_id": "SRC_f632bb29aa162954",
+  "split": "FINAL_TEST",
+  "edit_type": "removal",
+  "image_sha256": "38d522cb6cf1f351c86d8d6599968af243844bff98a98fe649cbc3bc75b9ac05",
+  "filename": "removal gpt 27.png",
+  "status": "PASS",
+  "error": "",
+  "rankings": [
+    {
+      "candidate_source_number": "27",
+      "candidate_source_id": "SRC_f632bb29aa162954",
+      "rank": 1,
+      "cosine_similarity": 0.9428621530532837,
+      "is_true_source": true
+    },
+    {
+      "candidate_source_number": "21",
+      "candidate_source_id": "SRC_63546b64257229be",
+      "rank": 2,
+      "cosine_similarity": 0.5281157493591309,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "08",
+      "candidate_source_id": "SRC_5f24d633cba4e38e",
+      "rank": 3,
+      "cosine_similarity": 0.33718767762184143,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "10",
+      "candidate_source_id": "SRC_765b9de7ceade1b9",
+      "rank": 4,
+      "cosine_similarity": 0.2984837591648102,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "33",
+      "candidate_source_id": "SRC_3d9886f927b74a69",
+      "rank": 5,
+      "cosine_similarity": 0.2851594388484955,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "13",
+      "candidate_source_id": "SRC_617193b60ac4bc06",
+      "rank": 6,
+      "cosine_similarity": 0.2710389792919159,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "07",
+      "candidate_source_id": "SRC_b82f5c29b7be555a",
+      "rank": 7,
+      "cosine_similarity": 0.2107643485069275,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "14",
+      "candidate_source_id": "SRC_a407f1c8cd2527f4",
+      "rank": 8,
+      "cosine_similarity": 0.2100425660610199,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "39",
+      "candidate_source_id": "SRC_16b2f8d28afeb070",
+      "rank": 9,
+      "cosine_similarity": 0.18454253673553467,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "30",
+      "candidate_source_id": "SRC_c1cc2638fb8b24a3",
+      "rank": 10,
+      "cosine_similarity": 0.1752675473690033,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "16",
+      "candidate_source_id": "SRC_4474da33205004f5",
+      "rank": 11,
+      "cosine_similarity": 0.17127835750579834,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "03",
+      "candidate_source_id": "SRC_5cb4f93cdb296adf",
+      "rank": 12,
+      "cosine_similarity": 0.1393040120601654,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "06",
+      "candidate_source_id": "SRC_b05ff9bec336d11c",
+      "rank": 13,
+      "cosine_similarity": 0.12726540863513947,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "20",
+      "candidate_source_id": "SRC_9510aeb45b10e35a",
+      "rank": 14,
+      "cosine_similarity": 0.1080678179860115,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "37",
+      "candidate_source_id": "SRC_b4e8b02d60ceb0a2",
+      "rank": 15,
+      "cosine_similarity": 0.10654247552156448,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "02",
+      "candidate_source_id": "SRC_bf56bf8c62267273",
+      "rank": 16,
+      "cosine_similarity": 0.1043243482708931,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "35",
+      "candidate_source_id": "SRC_955ea9f9ba6bf5ec",
+      "rank": 17,
+      "cosine_similarity": 0.09460843354463577,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "36",
+      "candidate_source_id": "SRC_e4649e76eb0f65d9",
+      "rank": 18,
+      "cosine_similarity": 0.09044597297906876,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "04",
+      "candidate_source_id": "SRC_f4446b7cc97f97e4",
+      "rank": 19,
+      "cosine_similarity": 0.0782756432890892,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "12",
+      "candidate_source_id": "SRC_5229a5af0d56e7c0",
+      "rank": 20,
+      "cosine_similarity": 0.06793619692325592,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "25",
+      "candidate_source_id": "SRC_9f8658439dc6af28",
+      "rank": 21,
+      "cosine_similarity": 0.05458199977874756,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "09",
+      "candidate_source_id": "SRC_13aa2ea8053a82ce",
+      "rank": 22,
+      "cosine_similarity": 0.05230553448200226,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "23",
+      "candidate_source_id": "SRC_2a30f7532f0aba43",
+      "rank": 23,
+      "cosine_similarity": 0.04920049384236336,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "28",
+      "candidate_source_id": "SRC_6cabb943c184f568",
+      "rank": 24,
+      "cosine_similarity": 0.03821747377514839,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "32",
+      "candidate_source_id": "SRC_38cc59949b53e716",
+      "rank": 25,
+      "cosine_similarity": 0.03802797198295593,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "05",
+      "candidate_source_id": "SRC_1a31fb2724e81006",
+      "rank": 26,
+      "cosine_similarity": 0.03488774597644806,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "15",
+      "candidate_source_id": "SRC_99b7f0b25ba09017",
+      "rank": 27,
+      "cosine_similarity": 0.02938426285982132,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "34",
+      "candidate_source_id": "SRC_55c5f6dbc715a825",
+      "rank": 28,
+      "cosine_similarity": 0.027850449085235596,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "38",
+      "candidate_source_id": "SRC_e69566e30974f6d7",
+      "rank": 29,
+      "cosine_similarity": 0.024119213223457336,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "24",
+      "candidate_source_id": "SRC_fa652570450a6545",
+      "rank": 30,
+      "cosine_similarity": 0.022288024425506592,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "11",
+      "candidate_source_id": "SRC_539d2a0601b2e47c",
+      "rank": 31,
+      "cosine_similarity": 0.01453721895813942,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "01",
+      "candidate_source_id": "SRC_75048a8edeb43929",
+      "rank": 32,
+      "cosine_similarity": -0.005890321917831898,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "29",
+      "candidate_source_id": "SRC_f448f6cdba58d730",
+      "rank": 33,
+      "cosine_similarity": -0.018180806189775467,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "18",
+      "candidate_source_id": "SRC_8022cc6923c269d9",
+      "rank": 34,
+      "cosine_similarity": -0.023659732192754745,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "19",
+      "candidate_source_id": "SRC_606c5b236d34acbb",
+      "rank": 35,
+      "cosine_similarity": -0.041524894535541534,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "40",
+      "candidate_source_id": "SRC_805d495ff4eaed05",
+      "rank": 36,
+      "cosine_similarity": -0.05460529401898384,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "22",
+      "candidate_source_id": "SRC_6543a697d957be41",
+      "rank": 37,
+      "cosine_similarity": -0.06712920218706131,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "31",
+      "candidate_source_id": "SRC_c529a7ea7bb7eb38",
+      "rank": 38,
+      "cosine_similarity": -0.07786517590284348,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "17",
+      "candidate_source_id": "SRC_fb72893801d00fe9",
+      "rank": 39,
+      "cosine_similarity": -0.08289138972759247,
+      "is_true_source": false
+    },
+    {
+      "candidate_source_number": "26",
+      "candidate_source_id": "SRC_b0b9b47c3f7da672",
+      "rank": 40,
+      "cosine_similarity": -0.08624164760112762,
+      "is_true_source": false
+    }
+  ],
+  "predicted_source_number": "27",
+  "predicted_source_id": "SRC_f632bb29aa162954",
+  "true_source_rank": 1,
+  "top1_correct": true,
+  "similarity_top1": 0.9428621530532837,
+  "similarity_top2": 0.5281157493591309,
+  "margin_top1_top2": 0.41474640369415283,
+  "similarity_true_source": 0.9428621530532837,
+  "seconds": 2.10134
+}

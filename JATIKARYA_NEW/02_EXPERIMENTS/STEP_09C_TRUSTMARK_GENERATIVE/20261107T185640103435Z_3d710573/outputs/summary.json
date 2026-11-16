@@ -1,0 +1,12 @@
+{
+  "input_manifest_sha256": "c2e8ab777359320bb7017322c9ed9e0b96ca3a878d7cec5e81ab7d01c22e2003",
+  "trustmark_version": "0.9.2",
+  "total_images": 54,
+  "matched_count": 13,
+  "not_detected_count": 41,
+  "mismatch_count": 0,
+  "error_count": 0,
+  "results_sha256": "038ceb4ffeee925c7405b1af3aa9520f1ae5dd1fa461ac70bc737e1df8d37ea2",
+  "finished_at_utc": "2026-11-07T18:56:52.472170+00:00",
+  "fusion_used": false
+}

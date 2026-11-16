@@ -1,0 +1,18 @@
+{
+  "provider": "gemini",
+  "source_number": "35",
+  "source_id": "SRC_955ea9f9ba6bf5ec",
+  "split": "CALIBRATION",
+  "edit_type": "background",
+  "filename": "background gemini 35.jpg",
+  "image_sha256": "20672183eb8a5a64e96044220c925699c5557f20b204197f91eb3faa8970748a",
+  "parent_watermarked_sha256": "9f8b47ecfd7df7816e4dded6134049690a7c340f4c0767ac68df5c3f197965de",
+  "detected": false,
+  "payload_match": false,
+  "decoded_payload": "",
+  "decoded_schema": "-1",
+  "mapped_source_id": "",
+  "status": "TIDAK_TERDETEKSI",
+  "error": "",
+  "seconds": 0.31924
+}

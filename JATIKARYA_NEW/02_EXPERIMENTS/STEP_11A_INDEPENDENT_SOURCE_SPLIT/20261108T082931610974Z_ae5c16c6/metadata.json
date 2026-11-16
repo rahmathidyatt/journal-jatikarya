@@ -1,0 +1,13 @@
+{
+  "run_id": "20261108T082931610974Z_ae5c16c6",
+  "step": "STEP_11A_INDEPENDENT_SOURCE_SPLIT",
+  "method": "DIRECT_IMAGE_SOURCE_REGISTRATION",
+  "parameters": {
+    "dataset_fingerprint": "d543d6d26a5ca2bf8af4ca115c85f71f3f621bb7bbae51c158ec82ff943267d1",
+    "source_count": 40,
+    "calibration_count": 20,
+    "final_test_count": 20
+  },
+  "status": "PASS",
+  "created_at_utc": "2026-11-08T08:29:31.643213+00:00"
+}

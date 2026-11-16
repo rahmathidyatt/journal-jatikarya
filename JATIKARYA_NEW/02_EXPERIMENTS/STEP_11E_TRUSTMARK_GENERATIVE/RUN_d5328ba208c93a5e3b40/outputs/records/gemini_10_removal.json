@@ -1,0 +1,18 @@
+{
+  "provider": "gemini",
+  "source_number": "10",
+  "source_id": "SRC_765b9de7ceade1b9",
+  "split": "FINAL_TEST",
+  "edit_type": "removal",
+  "filename": "removal gemini 10.jpg",
+  "image_sha256": "7c1fe4fbbf1416dbc843f0d5d1c1a615036bb0f179ada808bd7b36fd8496395f",
+  "parent_watermarked_sha256": "722df0c9322ed5adc6ed509605cc7e65dcfc9abd6789926058146d010a39ce5e",
+  "detected": false,
+  "payload_match": false,
+  "decoded_payload": "",
+  "decoded_schema": "-1",
+  "mapped_source_id": "",
+  "status": "TIDAK_TERDETEKSI",
+  "error": "",
+  "seconds": 0.48915
+}

@@ -1,0 +1,18 @@
+{
+  "provider": "chatgpt",
+  "source_number": "28",
+  "source_id": "SRC_6cabb943c184f568",
+  "split": "FINAL_TEST",
+  "edit_type": "background",
+  "filename": "background gpt 28.png",
+  "image_sha256": "6ae7464eefa72cd7c49fb236cb7aac5df0f870b238b0a99e1cfc89639850d70f",
+  "parent_watermarked_sha256": "cf4bb6cd34f8772be8120a46eabb7b37a2fd9a8497890061d8f3eb31ff4e8bba",
+  "detected": false,
+  "payload_match": false,
+  "decoded_payload": "",
+  "decoded_schema": "-1",
+  "mapped_source_id": "",
+  "status": "TIDAK_TERDETEKSI",
+  "error": "",
+  "seconds": 0.30127
+}

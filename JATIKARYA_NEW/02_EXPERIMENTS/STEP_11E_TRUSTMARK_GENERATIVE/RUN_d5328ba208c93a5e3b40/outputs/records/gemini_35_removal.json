@@ -1,0 +1,18 @@
+{
+  "provider": "gemini",
+  "source_number": "35",
+  "source_id": "SRC_955ea9f9ba6bf5ec",
+  "split": "CALIBRATION",
+  "edit_type": "removal",
+  "filename": "removal gemini 35.jpg",
+  "image_sha256": "e537a1eb65f52a53d4743ddf44aaf3a9f67cd5e414fcd37308fb122354443109",
+  "parent_watermarked_sha256": "9f8b47ecfd7df7816e4dded6134049690a7c340f4c0767ac68df5c3f197965de",
+  "detected": true,
+  "payload_match": true,
+  "decoded_payload": "1001010101011110101010011111100110111010011010111111010111101",
+  "decoded_schema": "1",
+  "mapped_source_id": "SRC_955ea9f9ba6bf5ec",
+  "status": "KODE_COCOK",
+  "error": "",
+  "seconds": 0.30158
+}

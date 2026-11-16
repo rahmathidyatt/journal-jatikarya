@@ -1,0 +1,18 @@
+{
+  "provider": "gemini",
+  "source_number": "09",
+  "source_id": "SRC_13aa2ea8053a82ce",
+  "split": "FINAL_TEST",
+  "edit_type": "replacement",
+  "filename": "replacement gemini 09.jpg",
+  "image_sha256": "543aa8137db0ce498423b9df29a56b6fd0302709b32c6cd90febd165907363cf",
+  "parent_watermarked_sha256": "8b6a7a1fd79accb9b8c8c9e821074dd7209b6fae9145d256fd1101633cd115c4",
+  "detected": false,
+  "payload_match": false,
+  "decoded_payload": "",
+  "decoded_schema": "-1",
+  "mapped_source_id": "",
+  "status": "TIDAK_TERDETEKSI",
+  "error": "",
+  "seconds": 0.51769
+}

@@ -1,0 +1,9 @@
+{
+  "input_manifest_sha256": "7014ae818cee5b5ee0e6c816511a0478af8399aae5986a18a3b7c64a228733ce",
+  "reference_manifest_sha256": "8944577e3e16aec2e1da7ad25d739a173a73320bbd85295fd796139f5ce1adb9",
+  "trustmark_version": "0.9.2",
+  "model_type": "Q",
+  "encoding": "BCH_5",
+  "mode": "binary",
+  "orientation": "EXIF_TRANSPOSE_RGB_FRAME0"
+}

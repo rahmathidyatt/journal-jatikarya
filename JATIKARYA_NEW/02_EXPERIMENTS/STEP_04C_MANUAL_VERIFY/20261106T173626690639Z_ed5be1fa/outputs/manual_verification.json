@@ -1,0 +1,14 @@
+{
+  "source_id": "SRC_33feba5735b719cb",
+  "uploaded_filename": "20261106T170600974778Z_7d363375_watermarked.png",
+  "uploaded_sha256": "5154076da1cb64e7015600c4814a8bb2667153415c770c2ee5ee8f97f5d78886",
+  "reference_sha256": "5154076da1cb64e7015600c4814a8bb2667153415c770c2ee5ee8f97f5d78886",
+  "hash_match": true,
+  "watermark_detected": true,
+  "payload_match": true,
+  "decoded_payload": "0011001111111110101110100101011100110101101101110001100111001",
+  "decode_seconds": 0.21240226200006873,
+  "device": "cpu",
+  "status": "PASS",
+  "timestamp_utc": "2026-11-06T17:36:29.944387+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "source_id": "SRC_7aa46b7fdad8909c",
+  "run_id": "20261105T043741261544Z_7ac31edd",
+  "source_sha256": "7aa46b7fdad8909c5e8c4c0221716e66a93d228fa1cc0a6d6b9ad5d8e991c3b2",
+  "prepared_sha256": "f356c5338ef961a748333875ce76cbfbaa689ae3da792c84aace02c0438c4aaf",
+  "watermarked_sha256": "56ea541fc5ee086ea437d3065b5ee97a5f7d21d1e61fe14f3014b0bdc40769f3",
+  "payload_bits": "0111101010100100011010110111111111011010110110001001000010011",
+  "decoded_payload": "0111101010100100011010110111111111011010110110001001000010011",
+  "watermark_detected": true,
+  "payload_match": true,
+  "schema": 1,
+  "model": "TrustMark-Q",
+  "encoding": "BCH_5",
+  "trustmark_version": "0.9.2",
+  "device": "cpu",
+  "resolution": [
+    432,
+    768
+  ],
+  "stored_path": "01_DATASET/WATERMARKED/SRC_7aa46b7fdad8909c/20261105T043741261544Z_7ac31edd_watermarked.png",
+  "phase": "PILOT",
+  "status": "PASS",
+  "timestamp_utc": "2026-11-05T04:37:43.372129+00:00"
+}

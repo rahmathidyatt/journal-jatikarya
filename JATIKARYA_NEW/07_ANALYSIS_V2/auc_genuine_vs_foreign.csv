@@ -1,0 +1,6 @@
+metode,AUC_final,AUC_final_CI95,AUC_semua240,FRR_di_FAR1%,FRR_di_FAR5%
+pHash,0.967,"[np.float64(0.901), np.float64(1.0)]",0.967,0.033,0.033
+CLIP-B32,0.996,"[np.float64(0.987), np.float64(1.0)]",0.998,0.017,0.017
+DINOv2-S crop (lama),0.995,"[np.float64(0.983), np.float64(1.0)]",0.98,0.017,0.017
+DINOv2-S tanpa crop,0.997,"[np.float64(0.992), np.float64(1.0)]",0.983,0.017,0.017
+DINOv2-B tanpa crop,0.989,"[np.float64(0.966), np.float64(1.0)]",0.978,0.017,0.017

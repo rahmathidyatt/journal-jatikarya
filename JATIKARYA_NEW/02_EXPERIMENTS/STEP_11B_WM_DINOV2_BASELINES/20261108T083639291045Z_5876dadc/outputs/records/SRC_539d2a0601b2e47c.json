@@ -1,0 +1,21 @@
+{
+  "source_number": "11",
+  "source_id": "SRC_539d2a0601b2e47c",
+  "split": "CALIBRATION",
+  "source_filename": "IMG_1214.JPEG",
+  "source_sha256": "539d2a0601b2e47c8ba562bbf2eefe03a35976f1363c8bb1d1b130e25e293bc9",
+  "source_path": "01_DATASET/INDEPENDENT_ORIGINALS/CALIBRATION/SRC_539d2a0601b2e47c/IMG_1214.JPEG",
+  "parent_type": "ORIGINAL",
+  "watermarked_path": "01_DATASET/INDEPENDENT_WATERMARKED/20261108T083639291045Z_5876dadc/11_SRC_539d2a0601b2e47c_WM.png",
+  "watermarked_sha256": "34f49fb1cc504799ccb76d97dd93ca57071356152075cdb9dc9a742161309f6f",
+  "payload_bits": "0101001110011101001010100000011000000001101100101110010001111",
+  "watermark_detected": true,
+  "payload_match": true,
+  "watermarked_width": 576,
+  "watermarked_height": 768,
+  "embedding_path": "02_EXPERIMENTS/STEP_11B_WM_DINOV2_BASELINES/20261108T083639291045Z_5876dadc/outputs/embeddings/SRC_539d2a0601b2e47c.npy",
+  "embedding_sha256": "8f37c9f30f52726db3ea2607d2f1b05dc76dc36af0e7ee499dd80b7f8940b2a4",
+  "embedding_dimension": 384,
+  "duration_seconds": 3.353,
+  "status": "PASS"
+}

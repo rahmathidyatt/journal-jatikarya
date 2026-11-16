@@ -1,0 +1,16 @@
+{
+  "project": "JATIKARYA",
+  "run_id": "20261105T063301439426Z_3e1cb473",
+  "step": "STEP_15_NAIVE_FUSION",
+  "method": "WATERMARK_FIRST_FUSION",
+  "phase": "PILOT",
+  "created_at_utc": "2026-11-05T06:33:01.439426+00:00",
+  "parameters": {
+    "parent_step13": "20261105T062403071341Z_4a44ebb9",
+    "parent_step14": "20261105T062847520061Z_bba895b0",
+    "calibrated": false,
+    "setting": "CLOSED_SET",
+    "phase": "PILOT"
+  },
+  "status": "COMPLETED"
+}

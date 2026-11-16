@@ -1,0 +1,10 @@
+{
+  "config": {
+    "calibration_protocol_sha256": "17e8df99c8e89cbcea1d7a2311d8ef061cf70aa104d45d3c474c2b3c4dc0fd48",
+    "step11g_sha256": "98c67b70469ac7e560fca500db5ebcb669572d161c6bb277a96ae042d246afdb",
+    "manifest_sha256": "7014ae818cee5b5ee0e6c816511a0478af8399aae5986a18a3b7c64a228733ce",
+    "rule": "LOCKED_TM_CONFLICT_ABSTAIN_LOGREG_V1"
+  },
+  "prediction_sha256": "425f01b2e53b54e99ba7a2d4d33f460095585859f72b54ffa4eed312f8f82cff",
+  "locked_at_utc": "2026-11-10T08:50:08.262196+00:00"
+}

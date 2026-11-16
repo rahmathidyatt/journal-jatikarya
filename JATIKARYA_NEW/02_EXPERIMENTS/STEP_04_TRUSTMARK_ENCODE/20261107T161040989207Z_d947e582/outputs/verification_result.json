@@ -1,0 +1,22 @@
+{
+  "source_id": "SRC_5e7d8e04e7382bab",
+  "source_sha256": "5e7d8e04e7382babf23db358656f17f6a5e43248f437cd7cd736a10ac6fe9724",
+  "source_original_filename": "1E3A39E7-7E81-4257-BCB7-D93D77388210.jpg",
+  "source_original_format": "JPEG",
+  "source_n_frames": 1,
+  "source_frame_index": 0,
+  "prepared_sha256": "f1bb46017ec5d808a569cce10fbbf87562d05f6b6b4d2a4aae59ebbcebfa0886",
+  "prepared_width": 432,
+  "prepared_height": 768,
+  "payload_bits": "0101111001111101100011100000010011100111001110000010101110101",
+  "model_variant": "Q",
+  "encoding_type": "BCH_5",
+  "trustmark_version": "0.9.2",
+  "watermark_detected": true,
+  "payload_match": true,
+  "decoded_payload": "0101111001111101100011100000010011100111001110000010101110101",
+  "decoded_schema": "1",
+  "watermarked_sha256": "1934a95a1b95a402fde4ece0e4568fc31c6c68f6a503a1a614966ae0edb31447",
+  "stored_path": "01_DATASET/WATERMARKED/SRC_5e7d8e04e7382bab/20261107T161040989207Z_d947e582_watermarked.png",
+  "created_at_utc": "2026-11-07T16:10:41.919263+00:00"
+}

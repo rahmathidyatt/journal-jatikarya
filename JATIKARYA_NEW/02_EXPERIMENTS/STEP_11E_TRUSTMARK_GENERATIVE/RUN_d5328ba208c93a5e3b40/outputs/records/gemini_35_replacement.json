@@ -1,0 +1,18 @@
+{
+  "provider": "gemini",
+  "source_number": "35",
+  "source_id": "SRC_955ea9f9ba6bf5ec",
+  "split": "CALIBRATION",
+  "edit_type": "replacement",
+  "filename": "replacement gemini 35.jpg",
+  "image_sha256": "adf0c87342c20a6eb4bd5873f3a7dee20a369d9aaae03302b03b356b757f2032",
+  "parent_watermarked_sha256": "9f8b47ecfd7df7816e4dded6134049690a7c340f4c0767ac68df5c3f197965de",
+  "detected": false,
+  "payload_match": false,
+  "decoded_payload": "",
+  "decoded_schema": "-1",
+  "mapped_source_id": "",
+  "status": "TIDAK_TERDETEKSI",
+  "error": "",
+  "seconds": 0.37896
+}

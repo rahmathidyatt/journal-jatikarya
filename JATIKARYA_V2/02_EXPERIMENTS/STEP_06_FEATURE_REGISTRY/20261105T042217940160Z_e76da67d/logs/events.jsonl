@@ -1,0 +1,1 @@
+{"timestamp_utc": "2026-11-05T04:22:18.129422+00:00", "event": "FEATURE_REGISTERED", "details": {"source_id": "SRC_f2bac8171ed1e8e7", "dinov2_run_id": "20261105T041952011024Z_bd87649c", "duplicate_skipped": false, "embedding_sha256": "f0b5af479939d71999f19cf2c855c0da6d8e54f55b8703e2e4a62249033b9ad0"}}

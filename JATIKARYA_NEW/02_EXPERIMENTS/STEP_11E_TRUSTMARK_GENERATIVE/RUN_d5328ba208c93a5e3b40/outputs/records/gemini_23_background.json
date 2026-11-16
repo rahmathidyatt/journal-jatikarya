@@ -1,0 +1,18 @@
+{
+  "provider": "gemini",
+  "source_number": "23",
+  "source_id": "SRC_2a30f7532f0aba43",
+  "split": "CALIBRATION",
+  "edit_type": "background",
+  "filename": "background gemini 23.jpg",
+  "image_sha256": "3d2878a7768391ec3a937a00e737a72ff50e5b743ffcee7c23c0b1fd67dd3a37",
+  "parent_watermarked_sha256": "4ca42f75cf6dbaed41f7090f5cc40b4cac45fb986ec5ee6f683846064a451f78",
+  "detected": true,
+  "payload_match": true,
+  "decoded_payload": "0010101000110000111101110101001100101111000010101011101001000",
+  "decoded_schema": "1",
+  "mapped_source_id": "SRC_2a30f7532f0aba43",
+  "status": "KODE_COCOK",
+  "error": "",
+  "seconds": 0.5194
+}

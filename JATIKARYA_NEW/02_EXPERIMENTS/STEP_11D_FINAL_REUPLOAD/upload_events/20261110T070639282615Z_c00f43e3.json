@@ -1,0 +1,8 @@
+{
+  "provider": "chatgpt",
+  "new_count": 120,
+  "total_registered": 120,
+  "baseline_sha256": "8944577e3e16aec2e1da7ad25d739a173a73320bbd85295fd796139f5ce1adb9",
+  "index_sha256": "e7720cc08a0e77ed2d2c7c07f1e8241db87640027a9c80b4aa64be03b33bedfb",
+  "created_at_utc": "2026-11-10T07:06:39.293835+00:00"
+}

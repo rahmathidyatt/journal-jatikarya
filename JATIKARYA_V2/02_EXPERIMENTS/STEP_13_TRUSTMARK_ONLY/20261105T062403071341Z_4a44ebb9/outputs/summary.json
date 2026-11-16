@@ -1,0 +1,9 @@
+{
+  "run_id": "20261105T062403071341Z_4a44ebb9",
+  "phase": "PILOT",
+  "source_count": 4,
+  "query_count": 8,
+  "watermarked_correct": 4,
+  "original_control_correct": 4,
+  "timestamp_utc": "2026-11-05T06:24:13.271318+00:00"
+}

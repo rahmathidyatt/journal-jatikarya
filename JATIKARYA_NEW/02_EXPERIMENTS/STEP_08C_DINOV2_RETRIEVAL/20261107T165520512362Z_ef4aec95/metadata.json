@@ -1,0 +1,14 @@
+{
+  "run_id": "20261107T165520512362Z_ef4aec95",
+  "step": "STEP_08C_DINOV2_RETRIEVAL",
+  "method": "DINOV2_MULTI_SOURCE_RETRIEVAL",
+  "parameters": {
+    "input_manifest_sha256": "22a8162eda95b6dd6e022f5d7707acb40c0d463b8ad6a2dc4222ac16f89be420",
+    "reference_fingerprint": "2262e8d64faec3fde71140b16d5dc05b2c61f852adb78b5ec6a07141c3116629",
+    "model": "dinov2_vits14",
+    "preprocessing": "Resize518_CenterCrop518_ImageNet",
+    "candidate_count": 9
+  },
+  "created_at_utc": "2026-11-07T16:55:20.512362+00:00",
+  "status": "COMPLETED"
+}

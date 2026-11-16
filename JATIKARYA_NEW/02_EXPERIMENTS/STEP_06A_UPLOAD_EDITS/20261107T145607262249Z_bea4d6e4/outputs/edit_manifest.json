@@ -1,0 +1,113 @@
+{
+  "source_id": "SRC_33feba5735b719cb",
+  "parent_type_declared": "WATERMARKED",
+  "parent_reference_sha256": "5154076da1cb64e7015600c4814a8bb2667153415c770c2ee5ee8f97f5d78886",
+  "parent_run": "20261106T170600974778Z_7d363375",
+  "files": [
+    {
+      "source_id": "SRC_33feba5735b719cb",
+      "nama_file": "pen cofee.png",
+      "jenis_edit": "pen cofee",
+      "nilai_dari_nama": "Tidak disebutkan",
+      "lebar_px": 615,
+      "tinggi_px": 768,
+      "sha256": "796219e7ee06a75fddc5bf7d1fc8a260cbd99a221c3f306c91086be4a9ebdb62",
+      "stored_path": "01_DATASET/MANUAL_EDITS/SRC_33feba5735b719cb/20261107T145607262249Z_bea4d6e4/pen cofee.png",
+      "parent_type_declared": "WATERMARKED",
+      "parent_reference_sha256": "5154076da1cb64e7015600c4814a8bb2667153415c770c2ee5ee8f97f5d78886",
+      "parent_run": "20261106T170600974778Z_7d363375"
+    },
+    {
+      "source_id": "SRC_33feba5735b719cb",
+      "nama_file": "flip horizontal.png",
+      "jenis_edit": "flip horizontal",
+      "nilai_dari_nama": "Tidak disebutkan",
+      "lebar_px": 615,
+      "tinggi_px": 768,
+      "sha256": "70f318478ede6aee718c0e47699cf96ef4fe2817c3fb2331848bd232c8d83803",
+      "stored_path": "01_DATASET/MANUAL_EDITS/SRC_33feba5735b719cb/20261107T145607262249Z_bea4d6e4/flip horizontal.png",
+      "parent_type_declared": "WATERMARKED",
+      "parent_reference_sha256": "5154076da1cb64e7015600c4814a8bb2667153415c770c2ee5ee8f97f5d78886",
+      "parent_run": "20261106T170600974778Z_7d363375"
+    },
+    {
+      "source_id": "SRC_33feba5735b719cb",
+      "nama_file": "rotate 180.png",
+      "jenis_edit": "rotate",
+      "nilai_dari_nama": "180",
+      "lebar_px": 615,
+      "tinggi_px": 768,
+      "sha256": "b7eef9c1df68535b12460240313e3ac2b9771119b53588ff353709f0fd94d49d",
+      "stored_path": "01_DATASET/MANUAL_EDITS/SRC_33feba5735b719cb/20261107T145607262249Z_bea4d6e4/rotate 180.png",
+      "parent_type_declared": "WATERMARKED",
+      "parent_reference_sha256": "5154076da1cb64e7015600c4814a8bb2667153415c770c2ee5ee8f97f5d78886",
+      "parent_run": "20261106T170600974778Z_7d363375"
+    },
+    {
+      "source_id": "SRC_33feba5735b719cb",
+      "nama_file": "brush grey.png",
+      "jenis_edit": "brush grey",
+      "nilai_dari_nama": "Tidak disebutkan",
+      "lebar_px": 615,
+      "tinggi_px": 768,
+      "sha256": "4dc070cd788e5813eb7bcc1b25fee26521dbb5b65989c5707409d1fb268cfcb8",
+      "stored_path": "01_DATASET/MANUAL_EDITS/SRC_33feba5735b719cb/20261107T145607262249Z_bea4d6e4/brush grey.png",
+      "parent_type_declared": "WATERMARKED",
+      "parent_reference_sha256": "5154076da1cb64e7015600c4814a8bb2667153415c770c2ee5ee8f97f5d78886",
+      "parent_run": "20261106T170600974778Z_7d363375"
+    },
+    {
+      "source_id": "SRC_33feba5735b719cb",
+      "nama_file": "brush kuning.png",
+      "jenis_edit": "brush kuning",
+      "nilai_dari_nama": "Tidak disebutkan",
+      "lebar_px": 615,
+      "tinggi_px": 768,
+      "sha256": "b4a3b1e717da1a1b7cca85f13006d62cbc022e5823031c6028a179c269fc76f4",
+      "stored_path": "01_DATASET/MANUAL_EDITS/SRC_33feba5735b719cb/20261107T145607262249Z_bea4d6e4/brush kuning.png",
+      "parent_type_declared": "WATERMARKED",
+      "parent_reference_sha256": "5154076da1cb64e7015600c4814a8bb2667153415c770c2ee5ee8f97f5d78886",
+      "parent_run": "20261106T170600974778Z_7d363375"
+    },
+    {
+      "source_id": "SRC_33feba5735b719cb",
+      "nama_file": "b&w.png",
+      "jenis_edit": "b&w",
+      "nilai_dari_nama": "Tidak disebutkan",
+      "lebar_px": 615,
+      "tinggi_px": 768,
+      "sha256": "a063043eacb4fddda7779d5b73ac33a5be1cd6eeee13dd49ac4820780521a87a",
+      "stored_path": "01_DATASET/MANUAL_EDITS/SRC_33feba5735b719cb/20261107T145607262249Z_bea4d6e4/b&w.png",
+      "parent_type_declared": "WATERMARKED",
+      "parent_reference_sha256": "5154076da1cb64e7015600c4814a8bb2667153415c770c2ee5ee8f97f5d78886",
+      "parent_run": "20261106T170600974778Z_7d363375"
+    },
+    {
+      "source_id": "SRC_33feba5735b719cb",
+      "nama_file": "blur 50.png",
+      "jenis_edit": "blur",
+      "nilai_dari_nama": "50",
+      "lebar_px": 615,
+      "tinggi_px": 768,
+      "sha256": "f2cfd292f1f8d8d7241d27551d4c38f30306bde87c83bc6dd9dcee350c92a3c1",
+      "stored_path": "01_DATASET/MANUAL_EDITS/SRC_33feba5735b719cb/20261107T145607262249Z_bea4d6e4/blur 50.png",
+      "parent_type_declared": "WATERMARKED",
+      "parent_reference_sha256": "5154076da1cb64e7015600c4814a8bb2667153415c770c2ee5ee8f97f5d78886",
+      "parent_run": "20261106T170600974778Z_7d363375"
+    },
+    {
+      "source_id": "SRC_33feba5735b719cb",
+      "nama_file": "blur 100.png",
+      "jenis_edit": "blur",
+      "nilai_dari_nama": "100",
+      "lebar_px": 615,
+      "tinggi_px": 768,
+      "sha256": "3f9e134f632996aaa8b0b07097dbd4931da5d6911b12112d295138ae1e6d6f4f",
+      "stored_path": "01_DATASET/MANUAL_EDITS/SRC_33feba5735b719cb/20261107T145607262249Z_bea4d6e4/blur 100.png",
+      "parent_type_declared": "WATERMARKED",
+      "parent_reference_sha256": "5154076da1cb64e7015600c4814a8bb2667153415c770c2ee5ee8f97f5d78886",
+      "parent_run": "20261106T170600974778Z_7d363375"
+    }
+  ],
+  "created_at_utc": "2026-11-07T14:56:07.402254+00:00"
+}

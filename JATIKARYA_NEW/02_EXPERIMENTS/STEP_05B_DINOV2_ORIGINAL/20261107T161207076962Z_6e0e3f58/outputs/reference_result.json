@@ -1,0 +1,13 @@
+{
+  "source_id": "SRC_9b694fca4505129b",
+  "source_sha256": "9b694fca4505129b539334df9ec9f3fd49a1e60605f767e89cf149423e202774",
+  "original_filename": "22D70249-0908-4F0C-8356-CA04DB26E02A.jpg",
+  "model": "dinov2_vits14",
+  "preprocessing": "Resize518_CenterCrop518_ImageNet",
+  "embedding_dimension": 384,
+  "embedding_sha256": "64b4db220c37815b216fece0d87a4248a114fe1cff86b92b6d20c7de00ba23dc",
+  "source_frame_index": 0,
+  "execution_seconds": 1.360768,
+  "status": "PASS",
+  "created_at_utc": "2026-11-07T16:12:08.641858+00:00"
+}

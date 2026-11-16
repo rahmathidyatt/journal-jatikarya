@@ -1,0 +1,15 @@
+{
+  "project": "JATIKARYA",
+  "run_id": "20261105T063617770400Z_abb95eb1",
+  "step": "STEP_16_CONFLICT_ABSTENTION",
+  "method": "PROPOSED_FUSION_SCAFFOLD",
+  "phase": "PILOT",
+  "created_at_utc": "2026-11-05T06:36:17.770400+00:00",
+  "parameters": {
+    "parent_run": "20261105T063301439426Z_3e1cb473",
+    "calibrated": false,
+    "threshold": null,
+    "phase": "PILOT"
+  },
+  "status": "SCAFFOLD_COMPLETED"
+}

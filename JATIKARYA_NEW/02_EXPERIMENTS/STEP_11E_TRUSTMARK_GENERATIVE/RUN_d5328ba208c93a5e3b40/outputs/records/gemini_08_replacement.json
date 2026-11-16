@@ -1,0 +1,18 @@
+{
+  "provider": "gemini",
+  "source_number": "08",
+  "source_id": "SRC_5f24d633cba4e38e",
+  "split": "CALIBRATION",
+  "edit_type": "replacement",
+  "filename": "replacement gemini 08.jpg",
+  "image_sha256": "f5953e567d10dcf165d41aabc66f99599d5fca204dbae98cfe43ed0643cf2f89",
+  "parent_watermarked_sha256": "c4801db64c8eb271654d6d409c66fa6335d09215b7fd91221dd1d4e51b9a24d0",
+  "detected": true,
+  "payload_match": true,
+  "decoded_payload": "0101111100100100110101100011001111001011101001001110001110001",
+  "decoded_schema": "1",
+  "mapped_source_id": "SRC_5f24d633cba4e38e",
+  "status": "KODE_COCOK",
+  "error": "",
+  "seconds": 0.30171
+}

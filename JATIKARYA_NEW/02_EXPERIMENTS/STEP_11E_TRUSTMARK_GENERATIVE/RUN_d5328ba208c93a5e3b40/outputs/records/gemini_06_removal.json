@@ -1,0 +1,18 @@
+{
+  "provider": "gemini",
+  "source_number": "06",
+  "source_id": "SRC_b05ff9bec336d11c",
+  "split": "CALIBRATION",
+  "edit_type": "removal",
+  "filename": "removal gemini 06.jpg",
+  "image_sha256": "e1162ef19f615f12a0bb45c1e7730054e47185ed97f76b2ec27342a02ce14f6b",
+  "parent_watermarked_sha256": "7cee02f335412be967574d91691e06874a3ef3bdd525ce2bb9f950eea6b5da6f",
+  "detected": true,
+  "payload_match": false,
+  "decoded_payload": "101100001100111111111001101111101100001100101110110100010001110010100011111",
+  "decoded_schema": "3",
+  "mapped_source_id": "",
+  "status": "SCHEMA_TIDAK_SESUAI",
+  "error": "",
+  "seconds": 0.24029
+}

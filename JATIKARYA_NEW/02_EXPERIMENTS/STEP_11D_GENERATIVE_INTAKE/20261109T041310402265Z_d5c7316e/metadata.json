@@ -1,0 +1,9 @@
+{
+  "provider_declared_by_user": "gemini",
+  "new_images": 120,
+  "total_provider": 120,
+  "total_all": 240,
+  "index_sha256": "63a7e6ef3c0c2be291dadae2eabdfa77428920f57d1016a9adc9fee613b644a1",
+  "status": "STAGED_NOT_LABELED",
+  "created_at_utc": "2026-11-09T04:13:10.426890+00:00"
+}

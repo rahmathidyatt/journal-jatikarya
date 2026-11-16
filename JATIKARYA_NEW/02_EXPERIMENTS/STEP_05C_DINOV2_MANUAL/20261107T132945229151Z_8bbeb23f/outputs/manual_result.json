@@ -1,0 +1,13 @@
+{
+  "source_id": "SRC_33feba5735b719cb",
+  "uploaded_filename": "original (2).png",
+  "original_hash_match": true,
+  "model": "dinov2_vits14",
+  "embedding_dimension": 384,
+  "cosine_similarity": 0.9999999403953552,
+  "execution_seconds": 1.3671792640000149,
+  "device": "cpu",
+  "trustmark_used": false,
+  "status": "PASS",
+  "timestamp_utc": "2026-11-07T13:29:46.842859+00:00"
+}

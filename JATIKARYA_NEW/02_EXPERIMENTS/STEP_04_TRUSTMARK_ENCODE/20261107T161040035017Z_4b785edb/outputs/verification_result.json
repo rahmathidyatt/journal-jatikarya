@@ -1,0 +1,22 @@
+{
+  "source_id": "SRC_ce8fb67e7fe5f142",
+  "source_sha256": "ce8fb67e7fe5f142e9ca8efbc7f78280a07fe9181bba0d0aa3cb217c40fc1e12",
+  "source_original_filename": "3D2F65DD-DCC0-4B1E-B6CE-8082DC787142.jpg",
+  "source_original_format": "JPEG",
+  "source_n_frames": 1,
+  "source_frame_index": 0,
+  "prepared_sha256": "48769daf096dbec917e268b44ce9107f3c18800a2a245905cec3bb240bac1331",
+  "prepared_width": 432,
+  "prepared_height": 768,
+  "payload_bits": "1100111010001111101101100111111001111111111001011111000101000",
+  "model_variant": "Q",
+  "encoding_type": "BCH_5",
+  "trustmark_version": "0.9.2",
+  "watermark_detected": true,
+  "payload_match": true,
+  "decoded_payload": "1100111010001111101101100111111001111111111001011111000101000",
+  "decoded_schema": "1",
+  "watermarked_sha256": "6a75dd81aa5fefd0f887067afdcee90b3bf9725f08712e8512c34c99d9c86476",
+  "stored_path": "01_DATASET/WATERMARKED/SRC_ce8fb67e7fe5f142/20261107T161040035017Z_4b785edb_watermarked.png",
+  "created_at_utc": "2026-11-07T16:10:40.968265+00:00"
+}
