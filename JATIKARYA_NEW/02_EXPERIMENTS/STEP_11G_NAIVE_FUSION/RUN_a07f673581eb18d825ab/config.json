@@ -1,7 +1,0 @@
-{
-  "rule": "TM_FIRST_THEN_DINOV2_TOP1_V1",
-  "manifest_sha256": "7014ae818cee5b5ee0e6c816511a0478af8399aae5986a18a3b7c64a228733ce",
-  "ref_sha256": "8944577e3e16aec2e1da7ad25d739a173a73320bbd85295fd796139f5ce1adb9",
-  "trustmark_sha256": "97412633e5919851c08518d1cca4266f804ec2316bd3677e6c5e19200dce7617",
-  "dinov2_sha256": "c6feba9a9ad65f2303dd511eebf6509c8a415ea35483460499642e4c329e7bfc"
-}

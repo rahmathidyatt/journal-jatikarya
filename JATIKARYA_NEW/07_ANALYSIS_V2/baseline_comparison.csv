@@ -1,6 +1,0 @@
-metode,top1_240,top1_final,top1_final_CI95,AUC_openset_final,AUC_openset_all
-pHash,232/240,116/120,"[np.float64(0.9), np.float64(1.0)]",0.967,0.967
-CLIP-B32,237/240,118/120,"[np.float64(0.95), np.float64(1.0)]",0.975,0.985
-DINOv2-S crop (lama),238/240,120/120,"[np.float64(1.0), np.float64(1.0)]",0.99,0.974
-DINOv2-S tanpa crop,239/240,120/120,"[np.float64(1.0), np.float64(1.0)]",0.992,0.977
-DINOv2-B tanpa crop,237/240,120/120,"[np.float64(1.0), np.float64(1.0)]",0.985,0.968

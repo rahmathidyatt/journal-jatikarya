@@ -1,8 +1,0 @@
-{
-  "dataset_fingerprint": "d543d6d26a5ca2bf8af4ca115c85f71f3f621bb7bbae51c158ec82ff943267d1",
-  "manifest_sha256": "772bc2bf633fceda6da74484aaf96ebf2228599eaf1cad87fdcd3aa8072dce4c",
-  "protocol_sha256": "a71fb511a2e52066b8bec7dbbcd39402af197a897a7e515ee9599c0efd76aef7",
-  "total_sources": 40,
-  "calibration": 20,
-  "final_test": 20
-}
