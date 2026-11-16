@@ -1,2 +1,0 @@
-{"timestamp_utc": "2026-11-06T16:12:20.090710+00:00", "event": "FILE_ARCHIVED", "details": {"path": "02_EXPERIMENTS/STEP_02_STORAGE_TEST/20261106T161220036442Z_518e2697/outputs/JATIKARYA_storage_test.txt", "sha256": "5c19111ef379f3a6eada05862e26e8e04f2525b0059a64880c9eb53ff75f69cf"}}
-{"timestamp_utc": "2026-11-06T16:12:20.107806+00:00", "event": "STORAGE_TEST", "details": {"result": "PASS", "sha256_verified": true}}
